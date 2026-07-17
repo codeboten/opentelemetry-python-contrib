@@ -32,10 +32,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -51,10 +51,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -70,10 +70,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -89,10 +89,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -108,10 +108,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -127,10 +127,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -146,10 +146,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -165,10 +165,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -184,10 +184,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -203,10 +203,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -222,10 +222,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -241,10 +241,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -260,10 +260,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -279,10 +279,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -298,10 +298,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -317,10 +317,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -336,10 +336,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -355,10 +355,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -374,10 +374,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -393,10 +393,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -412,10 +412,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -431,10 +431,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -450,10 +450,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -469,10 +469,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -488,10 +488,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -507,10 +507,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -526,10 +526,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -545,10 +545,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -564,10 +564,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -583,10 +583,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -602,10 +602,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -621,10 +621,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -640,10 +640,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -659,10 +659,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -678,10 +678,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -697,10 +697,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -716,10 +716,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -735,10 +735,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -754,10 +754,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -773,10 +773,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -792,10 +792,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -811,10 +811,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -830,10 +830,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -849,10 +849,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -868,10 +868,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -887,10 +887,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -906,10 +906,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -925,10 +925,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -944,10 +944,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -963,10 +963,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -982,10 +982,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1001,10 +1001,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1020,10 +1020,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1039,10 +1039,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1058,10 +1058,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1077,10 +1077,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1096,10 +1096,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1115,10 +1115,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1134,10 +1134,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1153,10 +1153,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1172,10 +1172,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1191,10 +1191,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1210,10 +1210,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1229,10 +1229,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1248,10 +1248,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1267,10 +1267,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1286,10 +1286,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1305,10 +1305,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1324,10 +1324,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1343,10 +1343,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1362,10 +1362,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1381,10 +1381,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
@@ -1400,10 +1400,10 @@ jobs:
       - name: Checkout repo @ SHA - ${{ github.sha }}
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.14
+      - name: Set up Python 3.15
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: Install tox
         run: pip install tox-uv
